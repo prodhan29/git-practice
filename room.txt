@@ -1,1 +1,3 @@
 my home has two roooms
+each room has two windows
+
